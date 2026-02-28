@@ -38,3 +38,8 @@ Reccomended Choose Mirror Group so You Don't Have no Issues With The Repo
 Single Mirror Gives you The Choice Of Differnt Repo
 
 4: pkg upgrade -y
+
+click this link to get back to the hub
+
+https://github.com/Warlord19winter/The-Hub-For-Termux-Native-Desktop-Evironment
+
